@@ -1,2 +1,2 @@
 # Bruah
-[Use the Brush](https://shivashirsath.github.io/Bruah)
+##[Use the Brush](https://shivashirsath.github.io/Bruah)
